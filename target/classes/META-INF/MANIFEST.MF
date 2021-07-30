@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: Adithya V Hebbar
+Build-Jdk: 1.8.0_262
+Created-By: Maven Integration for Eclipse
+Main-Class: com.game.tictactoe.tic_tac_toe.App
+
